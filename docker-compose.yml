@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  ruby:
+    image: jekyll/jekyll:builder
+    tty: true
+    volumes:
+      - .:/website
