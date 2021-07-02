@@ -2,8 +2,6 @@ main:
   - title: "About"
     url: /about/
   - title: "Tasking Manager"
-    url: /tm
+    url: https://tm.publicdomainmap.org
   - title: "Editor"
-    url: /id
-  - title: "APIs"
-    url: /apis/
+    url: /editor
