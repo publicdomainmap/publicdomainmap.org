@@ -11,4 +11,4 @@ publicdomainmap.org uses the [Tasking Manager](https://wiki.openstreetmap.org/wi
 
 ### Learn More
 
-Find us on the [OSMUS Slack](https://osmus.slack.com) under the #publicdomainosm channel!
+Find us on the [OSMUS Slack](https://osmus.slack.com) under the #publicdomainosm channel
