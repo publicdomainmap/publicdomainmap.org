@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Public Domain Map
+subtitle: "a project of OpenStreetMap US"
 email: admin@publicdomainmap.org
 description: >- # this means to ignore newlines until "baseurl:"
   A public domain map of the world!
-# twitter_username: username
-repository: publicdomainmap/publicdomainmap.github.io
 baseurl: ""
-url: http://34.204.53.221
+twitter_username: openstreetmapus
+repository: publicdomainmap/publicdomainmap.github.io
 # github_username: publicdomainmap
 minimal_mistakes_skin: default
 search: true
@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Public Domain Map"
-  # avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "A public domain map of the world"
   links:
 #     - label: "Website"
@@ -78,15 +78,15 @@ author:
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
-#
-# footer:
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/OpenStreetMapUS"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/publicdomainmap"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
@@ -98,7 +98,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -109,11 +109,11 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/

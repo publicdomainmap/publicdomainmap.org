@@ -1,28 +1,62 @@
 ---
-layout: home
-author_profile: true
-title: "Welcome to Public Domain Map"
-date: 2021-06-25T00:00:00-04:00
+layout: splash
+permalink: /
+hidden: false
+header:
+  overlay_color: "#5e616c"
+  overlay_image: assets/images/pdm-adjusted-banner.png
+  actions:
+    - label: "<i class='fas fa-download'></i> Start Mapping"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  Join the volunteer movement to improve, collect, and publish open geospatial data that can be used by government agencies, private industry, and nonprofits to better inform policy decisions.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Learn more</a></small>
+feature_row:
+  - image_path: /assets/images/fra_railroadtunnels.png
+    alt: "customizable"
+    title: "Railroad Tunnels in Colorado"
+    excerpt: "Assist the Federal Railroad Administration in mapping the location of railroad tunnels in Colorado."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Start Mapping"
+  - image_path: /assets/images/covered-bridge-in-forest-2.jpg
+    alt: "fully responsive"
+    title: "Bridges in Michigan"
+    excerpt: "Here's where we'll add a quick blurb about the mapping task & end user agency."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Start Mapping"
+  - image_path: /assets/images/mountain_trail_stock.jpg
+    alt: "100% free"
+    title: "Trail Network in Washington"
+    excerpt: "Here's where we'll add a quick blurb about the mapping task & end user agency."
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Start Mapping"
+gallery:
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS"
+  - url: https://www.transportation.gov/
+    image_path: https://www.transportation.gov/sites/dot.gov/files/sxsw/images/us-dot.png
+    alt: "US DOT"
+  - url: https://railroads.dot.gov/
+    image_path: https://www.transportation.gov/sites/dot.gov/files/sxsw/images/us-dot.png
+    alt: "FRA"
 ---
 
-Public Domain Map is a project of [OpenStreetMap US](https://www.openstreetmap.us/) that allows map contributors across the United States to edit, contribute to, and consume federal datasets via a collaborative user environment and modified versions of popular OpenStreetMap tools; simultaneously improving government datasets and OpenStreetMap.
+{% include feature_row %}
 
-<img alt="Public Domain Map overview" src="/images/pdm_overview_diagram.png">
+{% capture notice-2 %}
+# *"Many government agencies and private companies are unwilling to accept the legal risk of using data not explicitly placed in the public domain. Removing these restrictions fosters data sharing, the creation of knowledge, and cultivates understanding.”*
 
-US Government agencies are increasingly realizing the value of crowdsourcing open data. Through Public Domain Map, government agencies can access the power of the crowd to improve government datasets and contribute validated data to OpenStreetMap. The toolstack includes newly developed public domain versions of the [Tasking Manager](https://wiki.openstreetmap.org/wiki/Tasking_Manager)  & the [iD Editor](https://wiki.openstreetmap.org/wiki/ID#:~:text=iD%20is%20an%20OpenStreetMap%20editor,editor%20at%20openstreetmap.org%20homepage.). The OpenStreetMap database is then improved with this authoritative data via [MapRoulette](https://wiki.openstreetmap.org/wiki/MapRoulette).
+### Derald Dudley, Transportation Theme Lead, NSDI, USDOT
+{% endcapture %}
 
-All contributions remain in the public domain, which allows the original government public domain datasets to accept edits from users and allows the edits to be applied to OpenStreetMap.
+<div class="notice">{{ notice-2 | markdownify }}</div>
 
-### Engagement
+## Who uses Public Domain Map data?
 
-Targeted end users include the general public, government agencies, the private sector and the OpenStreetMap community, but because Public Domain Map is improving open data, everyone who relies on OpenStreetMap or federal datasets benefits from higher quality, more complete and up-to-date geospatial data. 
+{% include gallery id="gallery" %}
 
-Public Domain Map is developed and maintained in collaboration with the US Department of Transportation, US Geological Survey, and other federal agencies. 
-
-### How to Contribute
-
-Public Domain Map is still in its initial development stage, but you can check out the latest production version [here](https://tm.publicdomainmap.org/).
-
-### Get in touch
-
-Find us on the [OSMUS Slack](https://osmus.slack.com) under the #publicdomainosm channel
+Interested in using Public Domain Map for your agency? Reach out to info@publicdomainmap.org

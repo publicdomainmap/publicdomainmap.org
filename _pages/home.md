@@ -1,0 +1,52 @@
+---
+layout: splash
+permalink: /
+hidden: false
+header:
+  overlay_color: "#5e616c"
+  overlay_image: assets/images/tm_pd_map_banner_with_white_layer.jpg
+  actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+feature_row:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+gallery2:
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS"
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS"
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS"    
+---
+
+{% include feature_row %}
+
+{% include gallery id="gallery2" caption="Our Partners" %}
+
+
