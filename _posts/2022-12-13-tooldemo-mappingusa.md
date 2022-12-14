@@ -1,5 +1,5 @@
 ---
-title: "Public Domain Map Tool Demo at Mapping USA 2022"
+title: "Introduction to PublicDomainMap and Demonstration at Mapping USA 2022"
 date: 2022-12-13T15:34:30-04:00
 categories:
   - blog
