@@ -2,4 +2,16 @@ main:
   - title: "About"
     url: /about/
   - title: "News"
-    url: /news
+    url: /news/
+
+sidebar-pilot-1:
+  - title: "Content"
+    children:
+      - title: "Overview"
+        url: /pilot/#overview
+      - title: "Step 1: Your OSM Account"
+        url: /pilot/#step-1-creating-your-openstreetmap-account
+      - title: "Step 2: OSM US Tasking Manager"
+        url: /pilot/#step-2-openstreetmap-us-tasking-manager
+      - title: "Step 3: Feedback Form"
+        url: /pilot/#step-3-complete-the-onboarding-feedback-form
