@@ -15,7 +15,7 @@ classes: wide
 
 Public Domain Map is a new collaborative mapping tool from [OpenStreetMap US](https://openstreetmap.us/) that allows volunteers to contribute to government datasets and OpenStreetMap simultaneously. Developed in collaboration with federal partners, Public Domain Map is designed to multiply the power and impact of volunteer mappers contributing to the public good by combining crowdsourcing efforts. Using familiar tools and workflows, volunteers will contribute map data that is reviewed by government agencies before publishing to OpenStreetMap and federal datasets. As a result, volunteer-contributed data can be leveraged by a greater number of agencies, citizens, companies, and nonprofits to better inform decision-making. 
 
-## User Testing Overview
+## Overview
 Your participation in the pilot will play a critical role in ensuring that Public Domain Map is accessible, functional, and an enjoyable experience. You should expect to spend up to 5 hours participating in this user testing process over the course of several weeks, depending on your experience with OpenStreetMap and your role as a mapper or validator.
 
 The pilot will be broken into 2-3 separate parts (depending on your role), each of which will conclude with a short feedback form that we ask all participants to complete. These forms will capture any challenges and feedback from the tasks completed. We encourage participants to capture screenshots of issues, bugs, etc. to be shared in the feedback forms. These sections are: 
