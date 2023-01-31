@@ -171,7 +171,7 @@ For now, we will stop here with the Tasking Manager. We will cover how to map an
 ## Step 3: Complete the Onboarding Feedback Form
 Fill out the Onboarding Feedback form below. After completing the survey, your OpenStreetMap account will be added to the Public Domain Map Testing Team and you will receive further instructions via email. 
 
-*Please note: there may be a few weeks between completion of this form and reciept of further instructions.*
+*Please note: there may be a few weeks between completion of this form and receipt of further instructions.*
 
 <iframe height="2520" title="Embedded Wufoo Form" allowtransparency="true" frameborder="0" scrolling="yes" style="width:100%;border:none" sandbox="allow-popups-to-escape-sandbox allow-top-navigation allow-scripts allow-popups allow-forms allow-same-origin" src="https://osmus.wufoo.com/embed/quqhk691nc3z4v/"> <a href="https://osmus.wufoo.com/forms/quqhk691nc3z4v/">Fill out my Wufoo form!</a> </iframe>
 
