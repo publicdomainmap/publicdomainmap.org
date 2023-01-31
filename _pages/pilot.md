@@ -160,8 +160,7 @@ The colours represent the following:
 
 ### Contribute
 
-Select ‘Contribute’ in the lower-right hand corner. After selecting Contribute, more detailed instructions are provided, with specific guidelines (mapping notes). The Project Specific Mapping Notes section gives detailed instructions on the imagery to use, how to trace specific features, and how to tag features. Read through these instructions.
-
+Select ‘Contribute’ in the lower-right hand corner. After selecting Contribute, the Instructions section in the left panel provides detailed notes such as which imagery to use, how to trace specific features, and how to tag features. Briefly review the instructions for the project. You will not be mapping this project as part of the pilot, but this will give you an idea of what to expect from project instructions in the future. 
 
 ### END PRACTICE
 
