@@ -138,9 +138,7 @@ In the search bar, please enter "362". This will take you to our example project
 
 This page provides specific details on the project objectives and requirements. Be sure to review this page before starting any mapping project on a Tasking Manager.
 
-Underneath the project description you will see a series of icons. The bold icons indicate which entities to map (which features e.g. buildings, roads).
-
-Mapping features which are the focus point of the project are explained in further detail underneath the Project Specific Mapping Needs. These feature specifications will describe common tags used for each main feature and provide tips for mapping that feature.
+Underneath the project description you will see a series of icons. The bold icons indicate which entities to map (e.g. buildings, roads).
 
 The overview map on the right-hand side of the project you have selected is split into squares which are colour coded dependent on the completion of the mapping in that square. If you do not see the grid on the map, click "Zoom to Tasks".
 
