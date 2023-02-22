@@ -15,3 +15,17 @@ sidebar-pilot-1:
         url: /pilot/#step-2-openstreetmap-us-tasking-manager
       - title: "Step 3: Feedback Form"
         url: /pilot/#step-3-complete-the-onboarding-feedback-form
+
+sidebar-pilot-2:
+  - title: "Content"
+    children:
+      - title: "Overview"
+        url: /pilot/part-2/#overview
+      - title: "Step 1: Step 1: Navigate to a Project"
+        url: /pilot/part-2/#step-1-navigate-to-a-public-domain-map-project
+      - title: "Step 2: Read Project Instructions"
+        url: /pilot/part-2/#step-2-read-through-the-project-instructions
+      - title: "Step 3: Mapping per Instructions"
+        url: /pilot/part-2/#step-3-complete-mapping-per-project-instructions
+      - title: "Step 4: Feedback Form"
+        url: /pilot/part-2/#step-4-complete-the-mapping-feedback-form
