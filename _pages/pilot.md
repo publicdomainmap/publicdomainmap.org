@@ -173,6 +173,8 @@ Fill out the Onboarding Feedback form below. After completing the survey, your O
 <iframe height="2520" title="Embedded Wufoo Form" allowtransparency="true" frameborder="0" scrolling="yes" style="width:100%;border:none" sandbox="allow-popups-to-escape-sandbox allow-top-navigation allow-scripts allow-popups allow-forms allow-same-origin" src="https://osmus.wufoo.com/embed/quqhk691nc3z4v/"> <a href="https://osmus.wufoo.com/forms/quqhk691nc3z4v/">Fill out my Wufoo form!</a> </iframe>
 
 
+## Continue to [Part II: Mapping](https://publicdomainmap.org/pilot/part-2/)
+Please make sure that you have submitted the Onboarding Feedback Form _and_ recieved further instructions from the Public Domain Map Team before proceeding to Part II.
 
 
 *Some text and images developed by Jess Beutler (OSM US) for the [HOTOSM Toolbox](https://toolbox.hotosm.org/pages/credits/credits-overview/) have been adapted for this guide.* 
