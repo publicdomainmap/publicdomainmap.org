@@ -34,15 +34,17 @@ Please note: This pilot does not involve conflation with OpenStreetMap or Federa
 
 Navigate to [tasks.openstreetmap.us](https://tasks.openstreetmap.us/). We recently updated the branding of the OpenStreetMap US Tasking Manager. The visual branding may look different than you previously have experienced, however, all steps and functions are the same.
 
-[sign in image]
+![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_signin.png?raw=true)
 
 Sign in by clicking on the ‘Log in’ button in the top right corner of the page. Once you click on the login button a popup will appear with the OpenStreetMap login form. Please enter your OSM username and password. Then click on the ‘Explore Projects'.
 
 Scroll through the first page of projects until you find a Public Domain Map project. Do not click on a project yet but instead, note that both OpenStreetMap and Public Domain Map projects are accessible from this portal.  
 
-[explore gif]
+![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_explore.gif?raw=true)
 
 You can also filter for Public Domain Map projects. Scroll back to the top of the 'Explore' page. In the top row of filter options, select 'Database' and then 'Public Domain Map'. Now you will see all Public Domain Map projects available for mapping. 
+
+![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_selectdatabase.gif?raw=true)
 
 Click on one of the projects. (If for some reason there are not projects available to map, please reach out to us via email.)
 
@@ -55,6 +57,8 @@ This will take you to the instructions page. Please review the instructions befo
 You will be taken to the iD editor with the task area highlighted in magenta. This is the bounding area of your mapping activities. **Do not map outside of the magenta boundary.**
 
 The instructions are also available in the iD editor, in the right-hand panel under "Instructions."
+
+![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_instructions.gif?raw=true)
 
 ## Step 3: Complete mapping per project instructions
 
