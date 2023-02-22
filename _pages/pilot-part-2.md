@@ -28,11 +28,11 @@ By the end of this section you will have:
 * Completed a tunnel mapping task
 
 ## Step 1: Navigate to a Public Domain Map project
-All Public Domain Map projects are hosted on the OpenStreetMap US Tasking Manager. The OpenStreetMap US Tasking Manager will now host mapping projects that either a) directly contribute to OpenStreetMap, or b) contribute to Public Domain Map. After Public Domain Map contributions are reviewed by federal agencies, contributions can then be brought into OpenStreetMap[1]. 
+The OpenStreetMap US Tasking Manager will now host mapping projects that either a) directly contribute to OpenStreetMap, or b) contribute to Public Domain Map. After Public Domain Map contributions are reviewed by federal agencies, contributions can then be brought into OpenStreetMap[1]. 
 
-Please note: This pilot does not involve conflation with OpenStreetMap or Federal datasets. It cannot be guaranteed that any data contributed during the pilot will be later available in either OpenStreetMap or Federal datasets.  
+Please note: This pilot does not involve the conflation workflow with OpenStreetMap or Federal datasets. It cannot be guaranteed that any data contributed during the pilot will be later available in either OpenStreetMap or Federal datasets.  
 
-Navigate to [tasks.openstreetmap.us](https://tasks.openstreetmap.us/). We recently updated the branding of the OpenStreetMap US Tasking Manager. The visual branding may look different than you previously have experienced, however, all steps and functions are the same.
+Navigate to the [OpenStreetMap US Tasking Manager](https://tasks.openstreetmap.us/). We recently updated the branding of the site. The visuals may look different than you previously have experienced, however, all steps and functions are the same.
 
 ![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_signin.png?raw=true)
 
@@ -40,11 +40,11 @@ Sign in by clicking on the ‘Log in’ button in the top right corner of the pa
 
 Scroll through the first page of projects until you find a Public Domain Map project. Do not click on a project yet but instead, note that both OpenStreetMap and Public Domain Map projects are accessible from this portal.  
 
-![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_explore.gif?raw=true)
+![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_explore.gif?raw=true) <br>
 
-You can also filter for Public Domain Map projects. Scroll back to the top of the 'Explore' page. In the top row of filter options, select 'Database' and then 'Public Domain Map'. Now you will see all Public Domain Map projects available for mapping. 
+You can also filter for Public Domain Map projects. Scroll back to the top of the 'Explore' page. In the top row of filter options, select 'Database' and then 'Public Domain Map'. Now you will see all Public Domain Map projects available for mapping. <br>
 
-![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_selectdatabase.gif?raw=true)
+![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_selectdatabase.gif?raw=true) <br>
 
 Click on one of the projects. (If for some reason there are no projects available to map, please reach out to us via email.)
 
