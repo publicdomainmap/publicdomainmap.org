@@ -16,7 +16,7 @@ classes: wide
 
 If you have been invited to participate in the Pilot but have not completed Part I, please [do so here](https://publicdomainmap.org/pilot/) before continuing. 
 
-In this part of the pilot, you will be diving into mapping railroad tunnels for the Federal Railroad Administration using the OpenStreetMap US Tasking manager. If you would like a refresh on mapping in OpenStreetMap, please feel free to go through the OpenStreetMap walkthrough again. Instructions on how to access the walkthrough can be found in [Part 1](https://publicdomainmap.org/pilot/).
+In this part of the pilot, you will be diving into mapping railroad tunnels for the Federal Railroad Administration using the OpenStreetMap US Tasking manager. If you would like a refresh on mapping in OpenStreetMap, please feel free to go through the OpenStreetMap walkthrough again. Instructions on how to access the walkthrough can be found in [Part I](https://publicdomainmap.org/pilot/).
 
 As always, if you have any questions or encounter roadblocks during the course of the pilot, please do not hesitate to reach out to info@publicdomainmap.org 
 
@@ -30,9 +30,9 @@ By the end of this section you will have:
 ## Step 1: Navigate to a Public Domain Map project
 The OpenStreetMap US Tasking Manager will now host mapping projects that either a) directly contribute to OpenStreetMap, or b) contribute to Public Domain Map. After Public Domain Map contributions are reviewed by federal agencies, contributions can then be brought into OpenStreetMap[1]. 
 
-Please note: This pilot does not involve the conflation workflow with OpenStreetMap or Federal datasets. It cannot be guaranteed that any data contributed during the pilot will be later available in either OpenStreetMap or Federal datasets.  
+_Please note: This pilot does not involve the conflation workflow with OpenStreetMap or Federal datasets. It cannot be guaranteed that any data contributed during the pilot will be later available in either OpenStreetMap or Federal datasets_.  
 
-Navigate to the [OpenStreetMap US Tasking Manager](https://tasks.openstreetmap.us/). We recently updated the branding of the site. The visuals may look different than you previously have experienced, however, all steps and functions are the same.
+Navigate to the <a href="https://tasks.openstreetmap.us/" target="_blank">OpenStreetMap US Tasking Manager</a>. We recently updated the branding of the site. The visuals may look different than you previously have experienced, however, all steps and functions are the same.
 
 ![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_signin.png?raw=true)
 
