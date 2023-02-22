@@ -6,7 +6,7 @@ header:
   overlay_image: assets/images/pdm-adjusted-banner.png
 sidebar:
   - title: "Part II Instructions"
-    nav: sidebar-pilot-1
+    nav: sidebar-pilot-2
 classes: wide
 ---
 
@@ -46,7 +46,7 @@ You can also filter for Public Domain Map projects. Scroll back to the top of th
 
 ![](https://github.com/publicdomainmap/publicdomainmap.org/blob/main/assets/images/p2_selectdatabase.gif?raw=true)
 
-Click on one of the projects. (If for some reason there are not projects available to map, please reach out to us via email.)
+Click on one of the projects. (If for some reason there are no projects available to map, please reach out to us via email.)
 
 ## Step 2: Read through the project instructions
 
@@ -54,7 +54,7 @@ After selecting a project to map, read through the description. Next, click "Con
 
 This will take you to the instructions page. Please review the instructions before continuing. When you're ready to map, select "Map a Task". 
 
-You will be taken to the iD editor with the task area highlighted in magenta. This is the bounding area of your mapping activities. **Do not map outside of the magenta boundary.**
+You will be taken to the iD editor with the task boundary highlighted in magenta. This is the bounding area of your mapping activities. **Do not map outside of the magenta boundary.**
 
 The instructions are also available in the iD editor, in the right-hand panel under "Instructions."
 
