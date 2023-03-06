@@ -22,12 +22,10 @@ baseurl: ""
 twitter_username: openstreetmapus
 repository: publicdomainmap/publicdomainmap.github.io
 # github_username: publicdomainmap
-minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -51,7 +49,6 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
