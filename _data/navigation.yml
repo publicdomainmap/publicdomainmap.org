@@ -29,3 +29,15 @@ sidebar-pilot-2:
         url: /pilot/part-2/#step-3-complete-mapping-per-project-instructions
       - title: "Step 4: Feedback Form"
         url: /pilot/part-2/#step-4-complete-mapping-feedback-form
+
+sidebar-pilot-3:
+  - title: "Content"
+    children:
+      - title: "Overview"
+        url: /pilot/validation/#overview
+      - title: "Step 1: Navigate to a Project"
+        url: /pilot/validation/#step-1:-navigate-to-a-project-ready-for-validation
+      - title: "Step 2: Review Validation Components"
+        url: /pilot/validation/#step-2-review-the-mapping-project-for-each-of-the-four-validation-components
+      - title: "Step 3: Feedback Form"
+        url: /pilot/validation/#step-3-complete-mapping-feedback-form
