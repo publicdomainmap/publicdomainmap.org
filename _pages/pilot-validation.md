@@ -1,5 +1,5 @@
 ---
-permalink: /pilot/part-2/
+permalink: /pilot/validation/
 title: "Public Domain Map Pilot"
 header:
   overlay_color: "#5e616c"
