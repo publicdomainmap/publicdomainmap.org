@@ -108,7 +108,7 @@ A tunnel will be an earthen underpass or located under a building; *it will not 
 
 ## Tunnel Data Checks
 
-:::info
+{% capture notice-2 %}
 
 :warning: **Check for Error of Omission** 
 *Is the tunnel mapped?*
@@ -158,7 +158,9 @@ Some tunnels may already have additional data such as Name. Check that this attr
     * You will be taken back to the project page. Navigate to another Public Domian Map project for validation.
 * If yes, this tunnel is well mapped and you can proceed to looking for additional tunnels within this task.
 
-:::
+{% endcapture %}
+
+<div class="notice">{{ notice-2 | markdownify }}</div>
 
 7. Repeat steps 2.2-2.6 until you have reviewed all mapped tunnels for this task. 
 
