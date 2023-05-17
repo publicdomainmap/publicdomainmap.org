@@ -166,7 +166,7 @@ Some tunnels may already have additional data such as Name. Check that this attr
 
 8. Before completion, you will need to do one final check for Errors of Commission. 
 
-:::info
+{% capture notice-2 %}
 
 :warning: **Check for Errors of Commission**
 
@@ -185,7 +185,9 @@ If there is a segment with a tunnel attribute, open the "Map Data" settings menu
     * You will be taken back to the project page. Navigate to another Public Domian Map project for validation.
 * If yes, turn the PublicDomainMap data back on to continue reviewing for Errors of Commission.
 
-:::
+{% endcapture %}
+
+<div class="notice">{{ notice-2 | markdownify }}</div>
 
 9. If you have completed all reviews and not encountered any errors, this means that the task is well-mapped.
     * In the right-hand panel, under the Completion menu, look for the section that reads "Is this task well mapped?" 
